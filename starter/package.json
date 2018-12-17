@@ -1,0 +1,22 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "start socket.io sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lasalazarr/socketio-demos.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Alberto Salazar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lasalazarr/socketio-demos/issues"
+  },
+  "homepage": "https://github.com/lasalazarr/socketio-demos#readme"
+}
