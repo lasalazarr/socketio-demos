@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/lasalazarr/socketio-demos/issues"
   },
-  "homepage": "https://github.com/lasalazarr/socketio-demos#readme"
+  "homepage": "https://github.com/lasalazarr/socketio-demos#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7",
+    "socket.io": "^2.2.0"
+  }
 }
